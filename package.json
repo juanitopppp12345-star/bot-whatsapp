@@ -1,0 +1,13 @@
+{
+  "name": "bot-whatsapp",
+  "version": "1.0.0",
+  "description": "Mi bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0"
+  }
+}
